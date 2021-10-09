@@ -1,2 +1,2 @@
-# Html
-Yusuf Uyan Web Sitesi
+# Developers Team
+Anka , Alpha , Mr.X Studio 
